@@ -9,3 +9,4 @@ sdk.conf
 sdk/sdk.exe
 API.md
 depend/sdk/hlua.conf
+做好的demo模块/synthesis.lua
