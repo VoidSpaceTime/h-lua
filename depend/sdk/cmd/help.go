@@ -19,6 +19,5 @@ func Help() {
 	fmt.Println("┃ sdk.exe dist [:PROJECT_NAME] - package a project for launch")
 	fmt.Println("┃")
 	fmt.Println("┃ @see https://h-lua.hunzsig.org")
-	fmt.Println("┃ @join QQ<325338043> Pwd<HJux213jP>")
 	fmt.Println("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 }
