@@ -38,8 +38,8 @@ end
 --- 极坐标位移
 ---@param x number
 ---@param y number
----@param dist number
----@param angle number
+---@param dist number   距离
+---@param angle number  角度
 ---@return number,number
 function math.polarProjection(x, y, dist, angle)
     local tx = x + dist * math.cos(angle * math_deg2rad)
