@@ -719,7 +719,7 @@ end
 ---@param frame number integer
 ---@param point number integer
 ---@param relativeFrame number integer
----@param relativePoint number integer
+---@param relativePoint number integer  相对点
 ---@param x number float(5)
 ---@param y number float(5)
 function hjapi.DzFrameSetPoint(frame, point, relativeFrame, relativePoint, x, y)
