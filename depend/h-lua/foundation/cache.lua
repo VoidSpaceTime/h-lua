@@ -1,6 +1,7 @@
 ---@class cache
 hcache = { _c_ = {}, _p_ = {} }
 
+--判断handle[key] 是否存在,存在返回
 ---@param handle any
 ---@param key any
 ---@return boolean

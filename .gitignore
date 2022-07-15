@@ -4,9 +4,15 @@ depend/YDWE/backups
 depend/YDWE/logs
 depend/YDWE/plugin/warcraft3/dzclient_api.ini
 temp/*
-projects/*
+projects/多重穿云箭
+projects/攻击吸血吸魔
+projects/烈焰风暴
+projects/图像左击
+projects/BUFF图标界面
+projects/demo
+projects/demo-1
+projects/mysterious-land-main
 sdk.conf
 sdk/sdk.exe
 API.md
 depend/sdk/hlua.conf
-做好的demo模块/synthesis.lua
